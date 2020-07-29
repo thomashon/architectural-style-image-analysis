@@ -3,7 +3,7 @@
 In this project, I try to build an Image Classifier to identify and classify architectural styles.
 Data and tools are containerized with Docker.
 
-1. In the first step I build an MVP where I classify Romanesque and Gothic architecture.
+1. In the first step, I build an MVP where I classify Romanesque and Gothic architecture.
 
 Maria Laach Abbey            |  Milan Cathedral
 :-------------------------:|:-------------------------:
