@@ -1,4 +1,4 @@
-# architectural-style-image-analysis
+# Architectural style image classification
 
 In this project, I try to build an Image Classifier to identify and classify architectural styles.
 Data and tools are containerized with Docker.
